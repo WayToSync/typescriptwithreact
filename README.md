@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+## Project
+
+The goal of this project is to create a simple **React** project using **Typescript**.
+
+We will also see how **structure our directory** for the project.
+
+This project was made with the version **17.0.2** of React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+`npx create-react-app . --template typescript`
 
 ## Available Scripts
 
