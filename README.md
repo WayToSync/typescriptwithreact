@@ -10,7 +10,7 @@ This project was made with the version **17.0.2** of React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-`npx create-react-app . --template typescript`
+### `npx create-react-app . --template typescript`
 
 ## Available Scripts
 
